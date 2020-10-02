@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroWebApi", "RegistroWebApi\RegistroWebApi.csproj", "{33D1D2D2-2CAC-484E-AC9D-39AAB433CEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterTest", "RegisterTest\RegisterTest.csproj", "{83BCCC11-1DB1-478D-83AD-F35EBF62F905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D1D2D2-2CAC-484E-AC9D-39AAB433CEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D1D2D2-2CAC-484E-AC9D-39AAB433CEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D1D2D2-2CAC-484E-AC9D-39AAB433CEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D1D2D2-2CAC-484E-AC9D-39AAB433CEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BCCC11-1DB1-478D-83AD-F35EBF62F905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BCCC11-1DB1-478D-83AD-F35EBF62F905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BCCC11-1DB1-478D-83AD-F35EBF62F905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BCCC11-1DB1-478D-83AD-F35EBF62F905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD4E167-6E02-4238-855F-30AD6ED1E66F}
+	EndGlobalSection
+EndGlobal
